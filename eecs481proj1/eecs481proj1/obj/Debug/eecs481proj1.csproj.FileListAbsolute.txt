@@ -1,0 +1,9 @@
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\bin\Debug\eecs481proj1.exe.config
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\bin\Debug\eecs481proj1.exe
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\bin\Debug\eecs481proj1.pdb
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\obj\Debug\eecs481proj1.csprojResolveAssemblyReference.cache
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\obj\Debug\eecs481proj1.Form1.resources
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\obj\Debug\eecs481proj1.Properties.Resources.resources
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\obj\Debug\eecs481proj1.csproj.GenerateResource.Cache
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\obj\Debug\eecs481proj1.exe
+c:\users\michaljm\documents\visual studio 2012\Projects\eecs481proj1\eecs481proj1\obj\Debug\eecs481proj1.pdb

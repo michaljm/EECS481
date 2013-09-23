@@ -1,0 +1,3 @@
+My game is a simple defense game. You control a paddle to block incoming bombs from destroying the lines on the screen. Bombs that collide with the blocker are destroyed and bombs that hit lines destroy the lines. When all lines are destroyed you lose.
+
+To run my code clone the repo at git@github.com:michaljm/EECS481.git and open the solution in visual studio. Once open use visual studio to run the project.
